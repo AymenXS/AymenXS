@@ -1,4 +1,4 @@
-# Hi there, I'm Aymen 👻!g
+# Hi there, I'm Aymen 👻!
 
 ## I'm a learning to be a developer! I am currently immersed in learning!
 
