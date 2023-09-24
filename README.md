@@ -1,4 +1,4 @@
-# Hi there, I'm Aymen! 👻
+# 👻 ~ I'm Aymen! 
 From a young age, I have developed a passionate aspiration to pursue a career in programming. My most valuable skill is my unwavering commitment to
 perpetual learning and my dedication to full immersion in the IT industry. I'm eager for an opportunity to put my skills to the test against real-world challenges.
 
