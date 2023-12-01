@@ -1,5 +1,5 @@
 # 👻 ~ I'm Aymen! 
-Since I was young, I've developed a had a massive interest in programming. What sets me apart is my commitment to continuous learning and my deep dive into the IT industry. I'm excited about facing the constant real-world challenges.
+Since I was young, I've developed a had a massive interest in programming. My most valuable skill is my commitment to continuous learning and my deep dive into the IT industry. I look forward to facing the ongoing real-world challenges.
 
 <br/>
 <br/>
