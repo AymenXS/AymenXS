@@ -1,6 +1,5 @@
 # 👻 ~ I'm Aymen! 
-From a young age, I have developed a passionate aspiration to pursue a career in programming. My most valuable skill is my unwavering commitment to
-perpetual learning and my dedication to full immersion in the IT industry. I'm eager for an opportunity to put my skills to the test against real-world challenges.
+Since I was young, I've developed a had a massive interest in programming. What sets me apart is my commitment to continuous learning and my deep dive into the IT industry. I'm excited about facing the constant real-world challenges.
 
 <br/>
 <br/>
