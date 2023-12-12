@@ -1,5 +1,5 @@
 # 👻 ~ I'm Aymen! 
-Since I was young, I've developed a had a massive interest in programming. My most valuable skill is my commitment to continuous learning and my deep dive into the IT industry. I look forward to facing the ongoing real-world challenges.
+Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
 
 <br/>
 <br/>
