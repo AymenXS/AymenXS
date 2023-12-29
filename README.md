@@ -1,5 +1,6 @@
 # 👻 ~ I'm Aymen! 
 Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
+![RotatingEarth](https://media-s3-us-east-1.ceros.com/extreme-reach/images/2022/04/11/b4364dd640237e63bb67474280bf1870/gettyimages-146400207.gif)
 
 <br/>
 <br/>
