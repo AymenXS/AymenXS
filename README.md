@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/AymenXS/AymenXS/assets/93975456/b1b9cb38-12f2-4a79-9e4b-972a72af662c" />
+  <img src="https://github.com/AymenXS/AymenXS/assets/93975456/77e6413f-afa4-404b-b568-c47cd71e4c4a" align="right" width="250" />
 </p>
 
 <br />
