@@ -1,6 +1,12 @@
+
+<p align="center">
+  <img src="https://github.com/AymenXS/AymenXS/assets/93975456/b1b9cb38-12f2-4a79-9e4b-972a72af662c" />
+</p>
+
+<br />
+
 # 👻 ~ I'm Aymen! 
 Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
-![ezgif-2-77e8201529](https://github.com/AymenXS/AymenXS/assets/93975456/b1b9cb38-12f2-4a79-9e4b-972a72af662c)
 
 
 
