@@ -1,7 +1,9 @@
 
 # 👻 ~ I'm Aymen! 
-Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
-<img src="https://github.com/AymenXS/AymenXS/assets/93975456/77e6413f-afa4-404b-b568-c47cd71e4c4a" align="right" width="500"/>
+<p>
+  Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
+  <img src="https://github.com/AymenXS/AymenXS/assets/93975456/77e6413f-afa4-404b-b568-c47cd71e4c4a" align="right" width="500"/>
+</p>
 
 
 <br/>
