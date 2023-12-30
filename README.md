@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/AymenXS/AymenXS/assets/93975456/77e6413f-afa4-404b-b568-c47cd71e4c4a" align="right" width="500"/>
+  <img src="https://github.com/AymenXS/AymenXS/assets/93975456/8109f4c1-4f40-43ae-ab71-020557905b93" align="right" width="500"/>
 </p>
 
 # 👻 ~ I'm Aymen! 
