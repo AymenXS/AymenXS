@@ -2,11 +2,13 @@
   <img src="https://github.com/AymenXS/AymenXS/assets/93975456/8109f4c1-4f40-43ae-ab71-020557905b93" align="right" width="30%"/>
 </p>
 
+
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/AymenXS/count.svg?"  />
 </div>
-
-###
 
 # 👻 ~ I'm Aymen! 
 Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
@@ -37,7 +39,7 @@ Passionate developer with a love for coding since early age. Committed to contin
 <img align="left" alt="Adobe XD" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" style="padding-right:10px;" />
 
 <br />
-
+<br />
 
 <a href="https://github.com/AymenXS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenXS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
