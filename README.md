@@ -6,12 +6,7 @@
 
 ###
 
-
-
 # 👻 ~ I'm Aymen! 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/AymenXS/count.svg?"  />
-</p>
 Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. Eager to face real-world challenges and contribute innovative solutions.
 
 <br/>
@@ -50,7 +45,11 @@ Passionate developer with a love for coding since early age. Committed to contin
 <br />
 
 ---
-
+<span>Total View Counts:  
+<p align="right">
+  <img src="https://profile-counter.glitch.me/AymenXS/count.svg?"  />
+</p>
+</span>
 <a href="http://www.github.com/AymenXS"><img src="https://github-readme-stats.vercel.app/api?username=AymenXS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AymenXS's GitHub stats" /></a>
 
 
