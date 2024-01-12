@@ -46,7 +46,7 @@ Passionate developer with a love for coding since early age. Committed to contin
 
 ---
 
-<p align="left">Total View Counts: 
+# Total View Counts: <p align="left"> 
   <img src="https://profile-counter.glitch.me/AymenXS/count.svg?"  />
 </p>
 
