@@ -7,7 +7,7 @@
 ###
 
 # 👻 ~ I'm Aymen! 
-Passionate developer with a love for coding since early age. Committed to continuous growth in the ever-evolving IT field. I enjoy facing real-world challenges and contribute innovative solutions.
+Task-driven, innovative developer with 3 years of experience in web development, ranging from freelancing, to voluntary work, to boot-camp. Proficient in creating 100% responsive websites from scratch as well as maintaining websites for clients. Fast-learning any newer technology with excellent troubleshooting skills. Able to work in a group or alone.
 
 Check-out my portfolio: https://aymen-xs.vercel.app/
 
