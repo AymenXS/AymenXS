@@ -3,8 +3,6 @@ Task-driven, innovative developer with 3 years of experience in web development,
 
 <br/>
 
-
-
 Check-out my portfolio: https://aymen-xs.vercel.app/
 
 <p>
