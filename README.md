@@ -2,10 +2,6 @@
   <img src="https://github.com/AymenXS/AymenXS/assets/93975456/8109f4c1-4f40-43ae-ab71-020557905b93" align="right" width="30%"/>
 </p>
 
-
-
-###
-
 # 👻 ~ I'm Aymen! 
 Task-driven, innovative developer with 3 years of experience in web development, ranging from freelancing, to voluntary work, to boot-camp. Proficient in creating 100% responsive websites from scratch as well as maintaining websites for clients. Fast-learning any newer technology with excellent troubleshooting skills. Able to work in a group or alone.
 
