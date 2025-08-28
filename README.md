@@ -9,8 +9,6 @@ Check-out my portfolio: https://aymen-xs.vercel.app/
   <img src="https://github.com/AymenXS/AymenXS/assets/93975456/8109f4c1-4f40-43ae-ab71-020557905b93" align="right" width="40%"/>
 </p>
 
-<a href="http://www.github.com/AymenXS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenXS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <br/>
 <br/>
 
