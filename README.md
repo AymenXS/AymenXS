@@ -1,5 +1,5 @@
 <h1>👻 ~ I'm Aymen!</h1> 
-Task-driven, innovative developer with 3 years of experience in web development, ranging from freelancing, to voluntary work, to boot-camp. Proficient in creating 100% responsive websites from scratch as well as maintaining websites for clients. Fast-learning any newer technology with excellent troubleshooting skills. Able to work in a group or alone.
+Web developer with 3 years across freelance, volunteer, and bootcamp projects. Builds responsive interfaces from scratch and picks up new tools quickly. Works well independently or in a team.
 
 <br/>
 
