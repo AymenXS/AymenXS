@@ -1,5 +1,5 @@
 <h1>👻 ~ I'm Aymen!</h1> 
-Web developer with 3 years across freelance, volunteer, and bootcamp projects. Builds responsive interfaces from scratch and picks up new tools quickly. Works well independently or in a team.
+Web developer with 4 years across freelance, volunteer, and bootcamp projects. Builds responsive interfaces from scratch and picks up new tools as need. I work well independently or in a team.
 
 <br/>
 
